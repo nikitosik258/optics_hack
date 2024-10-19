@@ -1,0 +1,6 @@
+deap==1.3.3
+scoop==0.7.2.0
+numpy==1.23.5
+rayoptics==0.8.5
+matplotlib==3.7.1
+pandas==2.1.1
